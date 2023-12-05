@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Mukta&family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+
+
+u{
+    font-weight: bold;
+    text-decoration-color: blueviolet;
+    text-underline-offset: 6px;
+}
+
+.c1{
+    border-bottom: 2px solid transparent;
+    
+}
+
+.c1:hover{
+    padding-bottom: 0px;
+    border-bottom: 2px solid blueviolet;
+}
+
+#c{
+    color: black;
+}
+
+
+#c:hover{
+    font-weight: bold;
+    color: blueviolet;
+}
