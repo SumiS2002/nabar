@@ -63,6 +63,23 @@ u{
 }
     
 
+.con{
+    background-color: #5e068a;
+    color: white;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cont p{
+    margin: 8px 0;
+    font-size: 13px;
+}
+
+
 
 
     .head1{
