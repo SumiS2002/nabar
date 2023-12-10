@@ -31,3 +31,141 @@ u{
     font-weight: bold;
     color: blueviolet;
 }
+
+.heading{
+    margin-left: 0px;
+    /* line-height: 50px; */
+    text-align: justify;
+}
+
+.pra{
+    margin-left: 0;
+    text-align: justify;
+    margin-top: 25px;
+}
+
+.bt{
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 20px 40px;
+    margin-top: 30px;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #5e068a;
+}
+
+
+
+
+.bt:hover{
+    background-color: #785a88;
+}
+    
+
+
+
+    .head1{
+        color: #5b0888;
+    }
+    span{
+        color: #713abee4;
+    }
+
+.ani{
+    transition: 1;
+}
+
+.ani:hover{
+    transform: scale(1.01);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.buttonall{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewall{
+    color: #5b0888;
+    padding: 20px 40px;
+    border-radius: 50px;
+    border-color: #a849d7;
+}
+
+.viewall:hover{
+    background-color: #5e068a;
+    color: white;
+}
+
+.learnbutton{
+    color: white;
+    padding: 20px 40px;
+    border-radius: 50px;
+    border-color: #a849d7;
+    background-color: #5b0888;
+}
+
+.learnbutton:hover{
+    color: #5b0888;
+    background-color: white;
+    border-color: #a849d7;
+}
+
+.cur img{
+    height: 450px;
+}
+
+@media(max-width:1042px){
+    .cap h1{
+        font-size: 30px;
+    }
+}   
+
+@media(max-width:451px){
+    .cap h1,.con2 h3{
+        font-size: 20px;
+    }
+    .cap p,.con2 .p1{
+        font-size: 12px;
+    }
+    .bt,.btc{
+        width: 150px;
+        height: 29px;
+        font-size: 10px;
+    }
+    .imn{
+        width: 50%;
+    }
+    .pink{
+        font-size: 10px;
+    }
+    
+}   
+
+
+
+
+
+
+
+
+                        
+    
+
+    
+
+            
+            
+        
+        
+        
+    
+    
+    
+
+
+
+
